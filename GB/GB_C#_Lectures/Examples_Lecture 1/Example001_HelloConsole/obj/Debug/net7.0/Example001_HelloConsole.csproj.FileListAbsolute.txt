@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.deps.json
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.runtimeconfig.json
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.dll
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.dll
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/refint/Example001_HelloConsole.dll
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/Debug/net7.0/ref/Example001_HelloConsole.dll
