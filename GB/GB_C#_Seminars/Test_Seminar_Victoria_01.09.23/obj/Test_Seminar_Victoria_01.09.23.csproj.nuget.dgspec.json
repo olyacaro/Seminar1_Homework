@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/Example001_HelloConsole.csproj": {}
+    "/Users/vheyer/Documents/GB/GB_C#_Seminars/Test_Seminar_Victoria_01.09.23/Test_Seminar_Victoria_01.09.23.csproj": {}
   },
   "projects": {
-    "/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/Example001_HelloConsole.csproj": {
+    "/Users/vheyer/Documents/GB/GB_C#_Seminars/Test_Seminar_Victoria_01.09.23/Test_Seminar_Victoria_01.09.23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/Example001_HelloConsole.csproj",
-        "projectName": "Example001_HelloConsole",
-        "projectPath": "/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/Example001_HelloConsole.csproj",
+        "projectUniqueName": "/Users/vheyer/Documents/GB/GB_C#_Seminars/Test_Seminar_Victoria_01.09.23/Test_Seminar_Victoria_01.09.23.csproj",
+        "projectName": "Test_Seminar_Victoria_01.09.23",
+        "projectPath": "/Users/vheyer/Documents/GB/GB_C#_Seminars/Test_Seminar_Victoria_01.09.23/Test_Seminar_Victoria_01.09.23.csproj",
         "packagesPath": "/Users/vheyer/.nuget/packages/",
-        "outputPath": "/Users/vheyer/Documents/GB/GB_C#_Lectures/Examples_Lecture 1/Example001_HelloConsole/obj/",
+        "outputPath": "/Users/vheyer/Documents/GB/GB_C#_Seminars/Test_Seminar_Victoria_01.09.23/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vheyer/.nuget/NuGet/NuGet.Config"
