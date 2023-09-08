@@ -1,4 +1,4 @@
-﻿// Наишите программу, которая на вход принимает число и выдает,
+﻿// Напишите программу, которая на вход принимает число и выдает,
 // является ли число четным (делиться ли оно на два без остатка)
 // 4 -> да
 // -3 -> нет
@@ -6,7 +6,9 @@
 
 Console.WriteLine("Введите число ");
 int userNum = Convert.ToInt32(Console.ReadLine());
-if (userNum%2 == 0)
+if (userNum == 0)
+    Console.WriteLine("Число равно нулю ");
+else if (userNum%2 == 0)
     Console.WriteLine("Число четное ");
-else
+else 
     Console.WriteLine("Число нечетное ");
