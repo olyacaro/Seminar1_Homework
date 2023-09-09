@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Task02/Task02.csproj",
+      "projectUniqueName": "/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Task2/Task02.csproj",
       "projectName": "Task02",
-      "projectPath": "/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Task02/Task02.csproj",
+      "projectPath": "/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Task2/Task02.csproj",
       "packagesPath": "/Users/vheyer/.nuget/packages/",
-      "outputPath": "/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Task02/obj/",
+      "outputPath": "/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vheyer/.nuget/NuGet/NuGet.Config"
