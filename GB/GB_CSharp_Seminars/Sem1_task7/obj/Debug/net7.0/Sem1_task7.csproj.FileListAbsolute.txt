@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/bin/Debug/net7.0/Sem1_task7
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/bin/Debug/net7.0/Sem1_task7.deps.json
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/bin/Debug/net7.0/Sem1_task7.runtimeconfig.json
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/bin/Debug/net7.0/Sem1_task7.dll
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/bin/Debug/net7.0/Sem1_task7.pdb
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.dll
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/refint/Sem1_task7.dll
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.pdb
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/Sem1_task7.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/GB_CSharp_Seminars/Sem1_task7/obj/Debug/net7.0/ref/Sem1_task7.dll
